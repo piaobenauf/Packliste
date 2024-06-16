@@ -1,0 +1,214 @@
+
+Basis Artikel:
+Reisepass 
+Adapter 
+Kopfhörer
+Reiseunterlagen 
+Handy + Ladekabel 
+Geldbörse 
+Medikamente 
+Hygieneartikel 
+
+Basis Artikel Bei Regen: 
+Regenschirm 
+Regenjacke 
+
+Basis Artikel Bei Sonne:  - Sonnencreme
+Badeanzug 
+Sonnenbrille 
+
+
+Auswahl Urlaubsart: 
+Business Trip 
+Private Reise 
+
+Business Trip: 
+Laptop und Ladegerät 
+Business Kleidung 
+Passende Schuhe 
+Notizbuch 
+Stifte
+
+Auswahl Länder: 
+Schweiz/ Österreich 
+Frankreich 
+England/ Irland 
+
+Schweiz/ Österreich 
+Sommer:
+-   T-Shirts
+Leichte Langarmshirts
+Shorts
+Leichte Hosen
+Kleid/Rock
+Pullover oder leichte Jacke
+Regenjacke
+Unterwäsche 
+Socken
+Badebekleidung
+Wanderschuhe
+Bequeme Schuhe
+ Flip-Flops oder Sandalen
+
+Winter: 
+- Thermo-Unterwäsche
+Pullover und Fleecejacken
+ Langarmshirts
+T-Shirts
+Winterjacke
+Jeans oder andere warme Hosen
+Warme Socken
+Handschuhe
+Mütze 
+Schal oder Halstuch
+ Stiefel
+Hausschuhe
+
+ Frühling/ Herbst
+Leichte Jacke (wind- und wasserdicht)
+Pullover und Fleecejacken
+Langarmshirts
+T-Shirts
+Lange Hosen
+Warme Socken
+Handschuhe
+Mütze 
+Schal oder Halstuch
+Bequeme Schuhe 
+Stiefel
+Hausschuhe
+
+
+
+
+
+
+
+
+
+Irland/ England 
+Sommer
+T-Shirts
+ Leichte Langarmshirts
+Shorts
+Lange Hosen
+Kleid/Rock 
+Pullover oder leichte Jacke
+ Regenjacke
+ Unterwäsche und Socken
+Badebekleidung
+Bequeme Schuhe 
+Flip-Flops/Sandalen
+ Winter
+Thermo-Unterwäsche
+Pullover 
+Fleecejacken
+Langarmshirts
+T-Shirts
+Winterjacke
+Jeans
+Warme Socken
+Handschuhe 
+Mütze
+Schal/ Halstuch
+Stiefel
+Hausschuhe
+Frühling/ Herbst
+ Leichte Jacke
+Pullover
+Fleecejacken
+Langarmshirts
+T-Shirts
+Leichte Hosen
+ Warme Socken
+Handschuhe
+Mütze
+Schal oder Halstuch
+ Bequeme Schuhe 
+ Stiefel
+Hausschuhe
+
+
+
+
+
+
+
+
+
+
+
+Frankreich
+Winter:
+• Socken
+• Unterwäsche
+• T-Shirts
+• Pullover
+• lange Hose
+• wetterfeste Schuhe
+• Winterjacke
+• Mütze
+Handschuhe
+Scharl
+
+Frühling / Herbst
+• Socken
+• Unterwäsche
+• T-Shirts
+• Pullover
+• lange Hose
+• wetterfeste Schuhe
+• Sneaker
+• Regenjacke
+
+
+Sommer
+Unterwäsche
+T-Shirts/ Tops
+• leichter Pullover
+• kurze Hose/ Kleid
+• luftige Schuhe
+• Sneaker
+• Sonnencreme
+• Sonnenbrille
+Hut
+Socken
+Badesachen
+
+
+
+
+
+
+Auswahl Aktivitäten:
+Skifahren 
+Wandern 
+Tennis 
+
+Skifahren 
+Skischuhe 
+Ski
+Skistecken 
+Skibekleidung 
+Handschuhe 
+Helm 
+Thermo Unterwäsche 
+Skibrille 
+Mütze 
+
+Wandern
+Wanderschuhe 
+Funktionskleidung 
+Cap/ Hut 
+Regenjacke 
+Rucksack 
+Wanderstöcke 
+Trinkflasche 
+
+Tennis
+Tenniskleidung 
+Tennisschläger 
+Tennisbälle 
+Cap 
+Tennisschuhe 
+
